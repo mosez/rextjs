@@ -1,1 +1,1 @@
-require "rextjs"
+require File.dirname(__FILE__) + "/lib/rextjs"
