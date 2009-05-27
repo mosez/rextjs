@@ -1,0 +1,3 @@
+= Rails ExtJS plugin
+
+This plugin provides a way to add ExtJS to Rails.
